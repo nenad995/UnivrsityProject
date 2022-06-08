@@ -7,7 +7,7 @@ Once I'm done with the course I'm planning to remake this project, but this time
 
 The whole project is in JavaWebApp1.zip file.
 
-The export of the DB is in the Dump20200424.zip file.
+The export of the DB is in the Dump20200424.rar file.
 
 
 
