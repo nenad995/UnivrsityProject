@@ -14,5 +14,5 @@ The export of the DB is in the Dump20200424.rar file.
 To do:
 
 1. Remake whole project using Spring.
-
 2. Make it work with Docker.
+3. Translate whole presentation in English.
